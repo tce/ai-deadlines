@@ -1,17 +1,17 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+conf_title: Eskridge Group Conference Deadlines # (Maintained by @abhshkdz)
+conf_description: Countdowns to conference deadlines for the Eskridge group
 author: Abhishek Das
+email: teskridge@fit.edu
 
-domain: "aideadlin.es"
-baseurl: ""
+conf_domain: "thomaseskridge.com/conferences"
+conf_baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
+twitter_username: tce001
+#twitter_hashtag: machinelearning
+github_username: tce
 github_repo: ai-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+#ga_id: UA-36274081-2
 
 include: ['_pages']
